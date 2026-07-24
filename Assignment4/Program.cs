@@ -1,4 +1,6 @@
-﻿namespace Assignment4
+﻿using System.Text;
+
+namespace Assignment4
 {
     internal class Program
     {
@@ -29,6 +31,21 @@
             //string str1 = "Clean Code";
             //string str2 = "Clean Code";
             //Console.WriteLine($"is Equel reference ? {Object.ReferenceEquals(str1,str2)}");//true
+            #endregion
+
+            #region Question03
+
+            ///*
+            // Q3. Create a StringBuilder, Append() the text "Book List",
+            //then Append() " - Updated" onto the same object. Print the final result.
+            // */
+
+            //StringBuilder sb = new StringBuilder();
+
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb);
+
             #endregion
         }
     }
