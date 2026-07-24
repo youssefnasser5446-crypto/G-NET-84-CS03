@@ -17,6 +17,19 @@
             //Console.WriteLine($"title  is {title} , title upper is {titleUpper}");
 
             #endregion
+
+            #region Question02
+
+            ///*
+            //  Q2. Declare two separate string variables,
+            //both set to the literal "Clean Code". Use ReferenceEquals()
+            //to check if they point to the same object in memory.
+            // */
+
+            //string str1 = "Clean Code";
+            //string str2 = "Clean Code";
+            //Console.WriteLine($"is Equel reference ? {Object.ReferenceEquals(str1,str2)}");//true
+            #endregion
         }
     }
 }
