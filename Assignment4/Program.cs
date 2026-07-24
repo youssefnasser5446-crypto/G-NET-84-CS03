@@ -90,6 +90,20 @@ namespace Assignment4
             //Console.WriteLine($"Book: {title}, Pages: {pages}");
 
             #endregion
+
+            #region Question07
+
+            ///*
+            // Q7. Build the same sentence again, but using string.Format().
+            // */
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string format = string.Format("Book: {0} , Pages: {1}",title,pages);
+            //Console.WriteLine(format);
+         
+
+            #endregion
         }
     }
 }
