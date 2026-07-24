@@ -117,6 +117,18 @@ namespace Assignment4
 
             #endregion
 
+            #region Question09
+
+            ///*
+            // Q9. Declare a nullable reference string? author = null;.
+            //Use the Null Propagation Operator (?.) to safely access and print author.Length.
+            // */
+
+            //string? author = null;
+            //Console.WriteLine(author?.Length);
+
+            #endregion
+
         }
     }
 }
