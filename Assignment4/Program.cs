@@ -101,9 +101,22 @@ namespace Assignment4
             //int pages = 464;
             //string format = string.Format("Book: {0} , Pages: {1}",title,pages);
             //Console.WriteLine(format);
-         
+
+
+            #endregion.
+
+            #region Question08
+
+            ///*
+            // Q8. Declare a nullable integer int? pages = null;.
+            //Use the Null Coalescing Operator (??) to print pages or 0 if it is null.
+            // */
+
+            //int? pages = null;
+            //Console.WriteLine(pages??0);
 
             #endregion
+
         }
     }
 }
